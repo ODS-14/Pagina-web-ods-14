@@ -1,0 +1,37 @@
+:root {
+    --marina: #173b3b;
+    --verde-claro: #dcebe3;
+    --coral: #df795f;
+    --fondo: #f8f6f0;
+}
+
+body {
+    background-color: var(--fondo);
+    color: var(--marina);
+}
+
+.navbar-fija {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header {
+    background-color: var(--verde-claro);
+}
+
+.btn-marina {
+    background-color: var(--marina);
+    color: #ffffff;
+    border: 1px solid var(--marina);
+}
+
+.btn-marina:hover {
+    background-color: var(--coral);
+    border-color: var(--coral);
+    color: #ffffff;
+}
+
+.seccion-soluciones {
+    background-color: var(--verde-claro);
+}
