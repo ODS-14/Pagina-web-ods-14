@@ -1,22 +1,29 @@
 .navbar-fija {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      z-index: 1000; 
-    }
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
 
-    body {
-      padding-top: 7%; 
-    }
+body {
+  padding-top: 7%;
+}
 
-    .proble{
-      padding-left: 2%;
-      padding-right: 2%;
-      margin: 1%;
-    }
-    .Datos{
-      padding-left: 2%;
-      padding-right: 2%;
-      margin: 1%;
-    }
+.proble {
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+}
+
+.Datos {
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+}
+
+.Discu {
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+}
