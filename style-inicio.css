@@ -27,8 +27,20 @@ body {
   padding-right: 2%;
   margin: 1%;
 }
+
 .Soluc {
   padding-left: 2%;
   padding-right: 2%;
   margin: 1%;
+  padding-bottom: 1%;
+}
+
+.footer {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #000000;
+  padding: 15px;
+  border-radius: 8px;
+  background: black;
 }
