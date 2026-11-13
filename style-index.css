@@ -28,7 +28,7 @@ body {
   margin: 1%;
 }
 
-.Soluc {
+.metap {
   padding-left: 2%;
   padding-right: 2%;
   margin: 1%;
@@ -43,4 +43,9 @@ body {
   padding: 15px;
   border-radius: 8px;
   background: black;
+}
+
+.btn-dark {
+    background-color: #343a40;
+    border-color: #343a40;
 }
