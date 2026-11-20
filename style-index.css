@@ -1,0 +1,51 @@
+.navbar-fija {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+body {
+  padding-top: 7%;
+}
+
+.proble {
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+}
+
+.Datos {
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+}
+
+.Discu {
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+}
+
+.metap {
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 1%;
+  padding-bottom: 1%;
+}
+
+.footer {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #000000;
+  padding: 15px;
+  border-radius: 8px;
+  background: black;
+}
+
+.btn-dark {
+    background-color: #343a40;
+    border-color: #343a40;
+}
